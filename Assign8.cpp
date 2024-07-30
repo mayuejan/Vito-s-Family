@@ -2,40 +2,6 @@
 
 * File Name: Assign8.cpp
 
-*
-
-* Academic Integrity Statement:
-
-* I certify that, while others may have assisted me in brainstorming, debugging, and validating this program,
-
-* the program itself is my own work. I understand that submitting code that is the work of other individuals
-
-* is a violation of the course Academic Integrity Policy and may result in zero credit for the assignment, or
-
-* course failure and a report to the Academic Dishonesty Board. I also understand that if I knowingly give my
-
-* original work to another individual could also result in zero credit for the assignment, or course failure
-
-* and a report to the Academic Dishonesty Board. See Academic Integrity for Students
-
-Links to an external site.
-
-*
-
-* Assisted by and Assisted line numbers:Assisted by yourube video https://www.youtube.com/watch?v=VNb3VLIu1PA&t=1324s regarding
-
-* the application about vector due to lack of application introduction of course videos, Assised line ( 55 ).Assisted by
-
-* https://stackoverflow.com/questions/13473/how-does-one-rank-an-array-sort-by-value-with-a-twist regarding the way to rank
-
-* numbers at an array, because i plan to use array to find its median number, Assisted line ( 59 ).
-
-* Your Name: YUERAN MA
-
-* Your PSU user ID:  ymm5252
-
-* Course title: CMPSC122 Summer 2024
-
 * Description: This is a simple project to find the optimal street address that is close to most other relatives and print out
 
 * the minimal distance that we purcured. At this project, i impletemted dynamic array, used vector that i just learned, sorting algorithm that i learned
